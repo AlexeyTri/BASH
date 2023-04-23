@@ -30,3 +30,4 @@ done
 
 rclone --progress --transfers 24 sync ./ litovchenko:links # выгрузка на гугл диск
 rclone config # настройка доступа
+jtfhfjhfjhfhtf
