@@ -1,7 +1,7 @@
 #!/bin/bash
 ##!/usr/bin/env bash
-mkdir myfolder/mydir
-ls -a myfolder/mydir
+mkdir myfolder/newdir
+ls -a myfolder/newdir
 
 string=1 #works - write
 
@@ -9,4 +9,4 @@ $string #read access
 
 echo $string
 
-echo $a
+# echo $a

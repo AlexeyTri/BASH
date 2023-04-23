@@ -4,7 +4,7 @@ folder=$1
 
 # files=$( ls $folder )
 i=0
-for line in $files/*
+for line in $folder/**
 do
     echo $i: $line 
     (( i++ ))
