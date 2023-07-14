@@ -1,5 +1,6 @@
-!#bin/bash
+i!#bin/bash
 echo "CHANGE FILE"
 echo "Hello"
 echo "this message for BASH_NEW branch"
+echo "message for main branch"
 echo "New change"

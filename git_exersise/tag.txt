@@ -1,0 +1,48 @@
+#new change #3
+tag v.0.1
+Tagger: Alexey.Litovchenko <algaritmno822@gmail.com>
+Date:   Thu Jul 13 13:13:04 2023 +0300
+
+my new version
+
+commit ecd48a821fa017cfeef655e5d81a43d17eb76996
+Author: Alexey.Litovchenko <algaritmno822@gmail.com>
+Date:   Thu Jul 13 11:16:41 2023 +0300
+
+    create new dir git_exersise
+
+diff --git a/git_exersise/.frend b/git_exersise/.frend
+new file mode 100644
+index 0000000..2e9f1bd
+--- /dev/null
++++ b/git_exersise/.frend
+@@ -0,0 +1 @@
++400 000 - 16/06/2023 SCOOL
+diff --git a/git_exersise/myscript_1 b/git_exersise/myscript_1
+new file mode 100644
+index 0000000..ca6846f
+--- /dev/null
++++ b/git_exersise/myscript_1
+@@ -0,0 +1,4 @@
++!#bin/bash
++echo "CHANGE FILE"
++echo "Hello"
++echo "New change"
+diff --git a/myscript b/myscript
+deleted file mode 100644
+index 26a98be..0000000
+--- a/myscript
++++ /dev/null
+@@ -1,2 +0,0 @@
+-!#bin/bash
+-echo "Hello"
+diff --git a/myscript_1 b/myscript_1
+new file mode 100644
+index 0000000..ca6846f
+--- /dev/null
++++ b/myscript_1
+@@ -0,0 +1,4 @@
++!#bin/bash
++echo "CHANGE FILE"
++echo "Hello"
++echo "New change"
