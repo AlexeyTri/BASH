@@ -1,0 +1,8 @@
+/Users/alexeylitovchenko/Bash/chapter_2
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+out.txt
+/Users/alexeylitovchenko/Bash/myfolder
+newdir
