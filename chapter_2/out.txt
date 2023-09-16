@@ -6,3 +6,4 @@ file4.txt
 out.txt
 /Users/alexeylitovchenko/Bash/myfolder
 newdir
+file1.txt	file2.txt	file3.txt	file4.txt	out.txt
